@@ -126,7 +126,6 @@ This project is licensed under the MIT License.
 git add README.md
 git commit -m "Added README"
 git push
-````
 
 🏆 Certification
 
